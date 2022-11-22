@@ -1,5 +1,3 @@
-![CreditHub](https://painel.credithub.com.br/images/icheques/logo-credithub.png)
-
 # Bem-vindo ao time!
 
 O CreditHub tem a tecnologia mais legal para lidar com crédito.
