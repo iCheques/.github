@@ -25,7 +25,7 @@ Construímos soluções que vão do **dado bruto à decisão inteligente** — c
 
 | Camada | Tecnologias |
 |--------|-------------|
-| **Backend** | Node.js, Go, Python |
+| **Backend** | Node.js, PHP, C, Python |
 | **Busca & Indexação** | Typesense, Elasticsearch |
 | **Infraestrutura** | Kubernetes, Docker, GCP |
 | **Dados** | ETL customizado, RFB, Receita Federal |
