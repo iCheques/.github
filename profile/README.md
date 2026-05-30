@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img src="https://empresas.credithub.com.br/assets/logo.png" alt="CreditHub" height="60" />
-</p>
-
-<h1 align="center">iCheques · CreditHub</h1>
+<h1 align="center">CreditHub</h1>
 
 <p align="center">
   <strong>Tecnologia de crédito de alta performance para o mercado brasileiro.</strong><br/>
