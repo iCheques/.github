@@ -46,5 +46,5 @@ Buscamos engenheiros que gostam de resolver problemas difíceis em escala real. 
 ---
 
 <p align="center">
-  <sub>© CreditHub · iCheques Tecnologia · São Paulo, Brasil</sub>
+  <sub>© CreditHub · Brasil</sub>
 </p>
